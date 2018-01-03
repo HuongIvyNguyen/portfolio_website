@@ -196,6 +196,9 @@ header.masthead {
   flex-direction: column;
   right: 0;
   margin: 0 0 15px; }
+.text-project {
+  text-transform: none;
+}
   #portfolio .portfolio-item .portfolio-link {
     position: relative;
     display: block;
